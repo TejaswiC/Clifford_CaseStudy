@@ -1,0 +1,9 @@
+numpy
+regex
+transformers
+sentence-transformers
+rank-bm25
+langchain
+langchain-community
+langchain-huggingface
+pydantic
