@@ -507,17 +507,43 @@ queries = [
 ]
 
 
-
 # =========================================================
-# 18. RUN FULL QA PIPELINE
+# 18. RUN FULL QA PIPELINE + WRITE OUTPUT (no sources)
 # =========================================================
 
-print("\n" + "=" * 60)
-print("RUNNING FULL QA PIPELINE")
-print("=" * 60)
+output_file = "qa_results.txt"
 
-for q in queries:
-    answer_query(q)
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write("GDPR QA Pipeline Results\n")
+    f.write("="*60 + "\n\n")
+
+    for q in queries:
+        print("\n" + "=" * 60)
+        print("QUESTION:", q)
+        print("=" * 60)
+
+        # --- Retrieve ---
+        retrieved_docs = hybrid_rerank_search(q)
+        context = build_context(retrieved_docs)
+
+        query_type      = detect_query_type(q)
+        prompt_template = PROMPT_TEMPLATES[query_type]
+        final_prompt    = prompt_template.format(context=context, query=q)
+
+        try:
+            answer = llm.invoke(final_prompt)
+
+            # Print to console
+            print("\nANSWER:\n", answer)
+
+            # Write only Q & A to file
+            f.write(f"QUESTION: {q}\n")
+            f.write(f"ANSWER: {answer}\n")
+            f.write("\n" + "-"*60 + "\n\n")
+
+        except Exception as e:
+            print(f"\nERROR during generation: {e}")
+            f.write(f"QUESTION: {q}\nERROR: {e}\n\n")
 
 
 # =========================================================
