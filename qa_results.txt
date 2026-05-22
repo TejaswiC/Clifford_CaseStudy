@@ -1,0 +1,103 @@
+GDPR QA Pipeline Results
+============================================================
+
+QUESTION: What is the maximum fine for a GDPR violation?
+ANSWER: The maximum fine for a GDPR violation is a maximum of EUR 500,000.
+
+------------------------------------------------------------
+
+QUESTION: What does GDPR say about the right to be forgotten?
+ANSWER: a) the personal data are no longer necessar y in relation to the pur poses f or which the y are collected or other wise processed, where a data subject has withdrawn his or her consent or objects to the processing of personal data concer ning him or her , or where the processing of his or her personal data does not other wise compl y with this Regulation.
+
+------------------------------------------------------------
+
+QUESTION: Under what conditions can personal data be transferred outside the EU?
+ANSWER: This Regulation should be repealed by this Regulation.
+
+------------------------------------------------------------
+
+QUESTION: What is the role of a Data Protection Officer (DPO)?
+ANSWER: The data protection officer shall hav e at least the f ollo wing tasks: (a) to inf or m and advise the controller or the processor and the em plo ye es who car r y out processing of their ob lig ations pursuant to this Regulation and to other Union or Member Stat e data prote ction pro visions; (b) to monitor compliance with this Regulation, with other U nion or Member Stat e data prote ction pro visions and with the policies of the controller or processor in relation to the prote ction of personal data, including the assignment of responsibilities, awareness-raising and training of staff inv olved in processing operations, and the relat ed audits; (c) to pro vide advice where request ed as protection off icer shall be designate d on the basis
+
+------------------------------------------------------------
+
+QUESTION: What constitutes a ‘data breach’ under GDPR?
+ANSWER: personal data breach
+
+------------------------------------------------------------
+
+QUESTION: What are the lawful bases for processing personal data under GDPR?
+ANSWER: consent of the data subject concer ned or some other legitimate basis
+
+------------------------------------------------------------
+
+QUESTION: How long can organizations retain personal data under GDPR?
+ANSWER: time limits.
+
+------------------------------------------------------------
+
+QUESTION: What are the key rights of individuals regarding their personal data?
+ANSWER: The following are the types of personal data that should be processed:
+
+------------------------------------------------------------
+
+QUESTION: What constitutes valid consent under GDPR?
+ANSWER: a clear imbalance between the data subject and the controller
+
+------------------------------------------------------------
+
+QUESTION: What obligations do data processors have under GDPR?
+ANSWER: a) process the personal data only on documented instr uctions from the controller, including with rega rd to transfe rs of personal data to a third countr y or an int er national org anisation, unless required to do so by U nion or Member Stat e la w to whom the processor is subject; in such a case, the processor shall in a) process the personal data only on documented instr uctions from the controller, including with rega rd to transfe rs of personal data to a third countr y or an int er national org anisation, unless required to do so by U nion or Member Stat e la w to whom the processor is subject; in such a case, the processor shall in a) process the personal data only
+
+------------------------------------------------------------
+
+QUESTION: How does GDPR define data minimization?
+ANSWER: in an effective manner and to integrate the necessar y safeg uards into the processing in order to meet the requirements of this Regulation and prote ct the r ights of data subjects
+
+------------------------------------------------------------
+
+QUESTION: Why is GDPR considered a landmark regulation in data privacy?
+ANSWER: The processing of personal data should be designed to ser ve mankind.
+
+------------------------------------------------------------
+
+QUESTION: What are the key differences between explicit and implicit consent under GDPR?
+ANSWER: Consent should not be regar ded as freely given if the data subject has no genuine or free choice or is unable to refuse or withdraw consent without detr iment.
+
+------------------------------------------------------------
+
+QUESTION: How does GDPR affect AI-based data processing?
+ANSWER: GDPR is a law that regulates the use of personal data.
+
+------------------------------------------------------------
+
+QUESTION: If a company stores customer data without informing users, which GDPR articles does it violate?
+ANSWER: Articles 4 and 3 of the GDPR. Articles 4 and 3 of the GDPR. Articles 4 and 3 of the GDPR. Articles 4 and 3 of the GDPR. Articles 4 and 3 of the GDPR. Articles 5 and 6 of the GDPR. Articles 8 and 9 of the GDPR. Articles 10 and 11 of the GDPR. Articles 12 and 13 of the GDPR. Articles 14 and 15 of the GDPR. Articles 16 and 17 of the GDPR. Articles 18 and 19 of the GDPR. Articles 19 and 20 of the GDPR. Articles 20 and 21 of the GDPR. Articles 21 and 22 of the GDPR. Articles 22 and 23 of the GDPR. Articles 23 and 24 of the GDPR. Articles 25 and 26 of the GDPR. Articles 25 and 26 of the GDPR. Articles 25 and 26 of the GDPR.
+
+------------------------------------------------------------
+
+QUESTION: Can a company use personal data without consent if they anonymize it?
+ANSWER: The following articles or provisions apply to the processing of personal data:
+
+------------------------------------------------------------
+
+QUESTION: If a user deletes their account, does GDPR require their data to be erased immediately?
+ANSWER: Article 17 Right t o erasure (‘r ight t o be f orgotten’) 1. The data subject shall hav e the r ight to obtain from the controller the erasure of personal data concer ning him or her without undue dela y and the controller shall hav e the ob right to erase personal data without undue dela y where one of the f ollo wing grounds applies: (a) the personal data are no longer necessar y in relation to the pur poses f or whic h the y were collected or other wise processed; 4.5.2016 L 119/43 Official Jour nal of the European Union EN by other means. In order to ensure that the personal data are not kep t longer than necessar y , time
+
+------------------------------------------------------------
+
+QUESTION: How does GDPR differ from the California Consumer Privacy Act (CCPA)?
+ANSWER: The California Consumer Privacy Act (CCPA) requires that any inf or mation and communi ­ cation relating to the processing of those personal data be easily accessible and easy to understand, and that clear and plain language be used.
+
+------------------------------------------------------------
+
+QUESTION: How does GDPR handle children’s data protection compared to COPPA?
+ANSWER: COPPA is a more general framework for protecting children’s data.
+
+------------------------------------------------------------
+
+QUESTION: What are the key similarities between GDPR and Brazil’s LGPD?
+ANSWER: The GDPR is a new law that regulates the collection and processing of personal data. The LGPD is a new law that regulates the collection and processing of personal data.
+
+------------------------------------------------------------
+
